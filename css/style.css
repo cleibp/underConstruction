@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+
+/* Aqui começa o alinhamento */
+
+.container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.image-center {
+    width: 50%;
+    height: 50%;
+    background: red;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
