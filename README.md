@@ -1,16 +1,7 @@
-# Página em construção
-
-```
-Template padrão de página em construção
-
-```
-
-[Visualizar](https://cleibp.github.io/underConstruction/)
-
-<h1 align="center"> 🚀 Exemplo de HAML </h1>
+<h1 align="center"> 🚀 Modelo de Página em construção </h1>
 
 ## ✍️ Descrição
-Exemplificação da sintaxe geral e básica do Pre processador Haml
+Template padrão de página em construção
 
 
 ## 📥 Clone/Baixe
