@@ -26,8 +26,8 @@ Template padrão de página em construção
 .
 ├── README.md
 ├── index.html
-└── css
-    └── style.css
+├── css
+│   └── style.css
 └── images
     └── construction.jpg
 ```
