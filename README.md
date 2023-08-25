@@ -25,10 +25,15 @@ Template padrão de página em construção
 ```sh
 .
 ├── README.md
+├── index.html
+└── css
+    ├── style.css
+└── images
+    ├── construction.jpg
 ```
 
 ## 👋🏽 DEMO
-[Pages](https://cleibp.github.io/underConstruction) 
+[Publicação em Github Pages](https://cleibp.github.io/underConstruction) 
 
 ## Contatos
 
